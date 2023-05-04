@@ -1,0 +1,1 @@
+Требуется тип string или bool, а не array
